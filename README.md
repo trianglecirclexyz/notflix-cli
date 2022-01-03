@@ -1,5 +1,5 @@
 <h1 align="center">NOTFLIX-CLI</h1>
-<p align="center">This is a CLI fork of  <a href="https://www.w3schools.com/">Visit W3Schools.com!</a> [Bugswriter's notflix](https://github.com/Bugswriter/notflix).</p>
+<p align="center">This is a CLI fork of  <a href="https://github.com/Bugswriter/notflix">Bugswriter's notflix.</a></p>
 
 ##
 <p align="center">
