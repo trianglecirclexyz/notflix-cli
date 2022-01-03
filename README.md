@@ -1,12 +1,6 @@
 <h1 align="center">NOTFLIX-CLI</h1>
 <p align="center">This is a CLI fork of  <a href="https://github.com/Bugswriter/notflix">Bugswriter's notflix.</a></p>
 
-##
-<p align="center">
-<img src="./preview.gif" alt="Video Preview" width="500px">
-</p>
-
-
 ### How does this work?
 
 This is a shell script. It scrapes 1337x and gets the magnet link.
