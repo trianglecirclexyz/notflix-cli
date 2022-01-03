@@ -1,4 +1,4 @@
-<h1 align="center">NOTFLIX</h1>
+<h1 align="center">NOTFLIX-CLI</h1>
 <p align="center">This is a CLI fork of [Bugswriter's notflix](https://github.com/Bugswriter/notflix).</p>
 
 ##
@@ -23,7 +23,7 @@ For scraping, the script uses simple gnu utils like sed, awk, paste, cut.
 cURL **notflix** to your **$PATH** and give execute permissions.
 
 ```sh
-$ sudo curl -sL "https://raw.githubusercontent.com/trianglecirclexyz/notflix/master/notflix" -o /usr/local/bin/notflix
+$ sudo curl -sL "https://raw.githubusercontent.com/trianglecirclexyz/notflix-cli/master/notflix" -o /usr/local/bin/notflix
 $ sudo chmod +x /usr/local/bin/notflix
 ```
 - To update, just do `curl` again, no need to `chmod` anymore.
