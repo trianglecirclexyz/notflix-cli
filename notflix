@@ -4,7 +4,6 @@
 
 mkdir -p $HOME/.cache/notflix
 
-menu="dmenu -i -l 25"
 baseurl="https://1337x.wtf"
 cachedir="$HOME/.cache/notflix"
 
@@ -63,7 +62,7 @@ if [ -z "$LINE" ]; then
   echo "No Result selected. Exiting..."
   exit 0
 fi
-echo "🔍 Searching Magnet seeds 🧲"
+echo "Searching Magnet seeds"
 url=$(head -n $LINE $cachedir/links.bw | tail -n +$LINE)
 fullURL="${baseurl}${url}/"
 
