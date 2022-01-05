@@ -1,4 +1,4 @@
-<h1 align="center">NOTFLIX-CLI</h1>
+<h1 align="center">NOTFLIX-CLI (deprecated)</h1>
 <p align="center">This repository has been deprecated in lieu of my own python rewrite: <a href="https://github.com/trianglecirclexyz/cthulhu">Cthulhu.</a></p> 
 
 ### How does this work?
